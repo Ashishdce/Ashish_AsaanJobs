@@ -654,9 +654,9 @@ x.concat(y);
 
 System.out.print(x);
 
-a. abc
+*a. abc*
 
-*b. abcxyz*
+b. abcxyz
 
 c. xyzabc
 
